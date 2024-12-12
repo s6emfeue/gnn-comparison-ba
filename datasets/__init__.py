@@ -1,0 +1,2 @@
+from .manager import (NCI1, RedditBinary, Reddit5K, Collab, IMDBBinary, IMDBMulti, Proteins, Enzymes, DD, NCI109, DHFR, Mutagenicity, SYNTHETIC, CSL, NCI1Features, NCI109Features, DHFRFeatures, MutagenicityFeatures, IMDBBinaryFeatures, IMDBMultiFeatures)
+#from.cin_data import (CIN_NCI1, CIN_NCI109, CIN_IMDBBINARY, CIN_IMDBMULTI)
